@@ -4,11 +4,15 @@ Work with the iframe element
 
 ## UX
 
-[User Stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-video-compilation-page/build-a-video-compilation-page)
+- [User Stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-video-compilation-page/build-a-video-compilation-page)
 
 ## Technologies
 
 Uses HTML5.  Makes use of the `iframe` element.
+
+## Testing
+
+Ensure all user stories are met.  Run the tests.
 
 ## Deployment
 
